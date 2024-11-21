@@ -21,14 +21,12 @@ Este projeto foi desenvolvido para demonstrar habilidades de design responsivo e
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Design Responsivo** com uso de media queries
 - **GitHub Pages** para deploy
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- Design responsivo que se adapta a diferentes dispositivos (desktop, tablet e celular).
 - Elementos visuais e estilizações inspirados no "Mundo Invertido".
 - Código limpo e organizado para facilitar a manutenção.
 
